@@ -1,4 +1,4 @@
 Hey there ദ്ദി •‿• )
 
-🚀 Languages: JAVA
-🔨 Tools: IntelliJ IDEA
+- 🚀 Languages: JAVA
+- 🔨 Tools: IntelliJ IDEA
