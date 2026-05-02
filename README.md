@@ -5,10 +5,11 @@ Back-end (Focus) <br/>
 🗄️ MySQL (MySQL Workbench)<br/>
 🔨 Tools: IntelliJ IDEA, Git<br/>
 <br/>
-Front-end (Loading... ⏳)<br/>
-🎨 HTML5 & CSS3 (Initial steps)<br/>
-⚡ JavaScript (Learning logic)<br/>
+Front-end <br/>
+🎨 HTML5 & CSS<br/>
+⚡ JavaScript<br/>
 🛠️ Tools: GitHub Pages<br/>
 <br/>
 🎮 Projects<br/>
 [Rogue Santa](https://diogofps.itch.io/rogue-santa) (Christmas-inspired Java roguelike game)
+[MealMap](https://diogofps.itch.io/rogue-santa) (Get recipe suggestions, based on user's ingredients and allergies)
